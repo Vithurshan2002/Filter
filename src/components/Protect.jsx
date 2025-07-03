@@ -1,5 +1,5 @@
 import React from "react";
-import Shoppingcart from "./shoppingcart";
+import Shoppingcart from './Shoppingcart';
 
 
 const Protect = ({filterProduct}) => {
